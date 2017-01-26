@@ -12,6 +12,7 @@ gem 'webpacker', github: 'rails/webpacker'
 gem "simple_form"
 
 gem 'redis', '~> 3.2'
+gem "interactor", "~> 3.0"
 gem 'sidekiq'
 
 group :development, :test do
